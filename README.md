@@ -31,3 +31,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tangobeo&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tangobeo&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/tangobeo"
+  width="600"
+  height="300"
+/>
+</a>
+
